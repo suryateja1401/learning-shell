@@ -6,3 +6,4 @@
 # hello
 
 ls
+# shell script is adding all your command in order
