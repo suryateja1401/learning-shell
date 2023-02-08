@@ -1,6 +1,13 @@
 # learning-shell
-# shell scripting
 # list of shell scripting topics
-# shell scripting topics
-# hello world
-# changes
+
+# shebang & comments    (scripting concept)
+# print                 (command)
+# redirectors & quotes  (Linux concept) 
+# variables             (scripting concept)
+# input                 (scripting concept)
+# functions             (scripting concept)
+# exit status           (command)
+# conditions            (scripting concept)
+# loops                 (scripting concept)
+# SED Editor            (command)
