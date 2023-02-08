@@ -1,4 +1,4 @@
 #/bin/bash
 
-It is she-bang
+#! is  called as she-bang
 completely optional
