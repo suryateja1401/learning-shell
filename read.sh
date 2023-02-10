@@ -1,3 +1,3 @@
-read -p 'Enter name:'=name
+read -p 'Enter name:' name
 
 eho Name =$name
