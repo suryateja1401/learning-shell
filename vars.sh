@@ -5,5 +5,5 @@ c=true
 echo value of a=$a
 
 #command subs
-DATE =${date}
+DATE=$(date)
 echo today date is $DATE
