@@ -1,7 +1,12 @@
 a=$1
-if [ $1 -gt  10 ];
+if [ $a -gt  10 ];
 then
-echo $1 is greater than 10
+echo $a is greater than 10
 else
-  echo $1 is less than 10
+  echo $a is less than 10
+fi
+
+x="abc"
+if [ $x == abc ]; then
+    echo yes both are equal
 fi
