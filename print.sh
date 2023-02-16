@@ -1,3 +1,3 @@
 echo hello world
 #colour print syntax
-echo -e "\e[coLm hello \e[0m"
+echo -e "\e[COLm MESSAGE  \e[0m"
