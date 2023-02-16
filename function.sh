@@ -5,6 +5,8 @@
  }
 
 #DECLARATION 2
-smaple(){
-  echo smaple function
+smaple1(){
+  echo smaple1function
 }
+sample
+sample1
