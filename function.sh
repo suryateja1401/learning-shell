@@ -1,3 +1,10 @@
-DECLARATION 1
+#DECLARATION 1
 
-DECLARATION 2
+ function sample() {
+   echo sample function
+ }
+
+#DECLARATION 2
+smaple(){
+  echo smaple function
+}
