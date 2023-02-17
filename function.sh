@@ -1,4 +1,4 @@
-#DECLARATION 1
+##DECLARATION 1
 
  function sample() {
    echo a from Main Program -$a
@@ -9,13 +9,13 @@
    echo First Argument from script is $1
  }
 
-#DECLARATION 2
+##DECLARATION 2
 smaple1(){
   echo smaple1function
 }
 ##Main Program
 a=10
-sample
+sample angle
 sample1
 echo b from functon -$b
 b=200
